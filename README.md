@@ -113,10 +113,6 @@ All dependencies managed via Maven; see `pom.xml`.
 
 ---
 
-## 📝 License
-
-MIT
-
 ---
 
 **Created as a learning project using modern Java web app principles.**
