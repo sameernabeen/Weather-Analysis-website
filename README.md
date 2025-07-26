@@ -110,7 +110,7 @@ text
 
 ## 🌍 Access Web App
 
-http://localhost:8080/WeatherInfoApp/index.jsp
+http://localhost:9090/WeatherInfoApp/index.jsp
 
 text
 
